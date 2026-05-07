@@ -78,7 +78,7 @@ These filters allow users to dynamically explore and analyze data.
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](https://github.com/ParthSoni2929/PARTH-ECOMMERCE-SALES-DASHBOARD/blob/main/PARTH%20ECOMMERCE%20SALES%20DASHBOARD.png)
 
 ---
 
